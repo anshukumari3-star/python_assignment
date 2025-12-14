@@ -13,7 +13,13 @@ python_assignment/
 │   ├── adult income.ipynb
 │   └── README.md
 │
-└── README.md   (Main repo README – optional)
+udemy_courses_analysis/
+ ├── udemy_courses.ipynb
+ └── README.md
+ 
+ salary_analysis/
+ ├── salaries.ipynb
+ └── README.md
 
 ✅ 1️⃣ Google Play Store App Analysis – README.md
 # 📱 Google Play Store App Analysis
@@ -106,5 +112,68 @@ This project highlights real-world data analysis and feature understanding skill
 ## 📌 Conclusion
 This project helped me understand how to work with real datasets, clean data, and derive business insights using Python.  
 It strengthened my fundamentals in data analysis and visualization
+
+
+# 🎓 Udemy Courses Data Analysis
+
+## 📌 Project Overview
+This project analyzes Udemy course data to understand course pricing, popularity, ratings, and subject-wise trends on the Udemy platform.
+
+## 🛠 Tools & Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## 🔍 Analysis Performed
+- Data loading and basic exploration
+- Analysis of free vs paid courses
+- Subject-wise course distribution
+- Relationship between price, subscribers, and ratings
+- Identification of most popular courses
+
+## 📊 Key Insights
+- Free courses attract a higher number of subscribers
+- Certain subjects have more paid courses
+- Courses with higher ratings tend to have more enrollments
+- Price does not always guarantee popularity
+
+## ✅ Conclusion
+This project provides insights into online learning trends and demonstrates strong exploratory data analysis (EDA) skills using real-world data.
+
+👩‍💻 **Author:** Anshu Kumari
+
+
+# 💰 Salary Data Analysis
+
+## 📌 Project Overview
+This project focuses on analyzing salary data to understand income distribution based on job roles, experience, and other factors.
+
+## 🛠 Tools & Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## 🔍 Analysis Performed
+- Data cleaning and preprocessing
+- Analysis of salary distribution
+- Comparison of salaries across different roles
+- Experience and salary relationship analysis
+- Visualization of salary trends
+
+## 📊 Key Insights
+- Salary varies significantly across job roles
+- Experience plays a major role in salary growth
+- Certain roles have higher average salaries
+- Salary distribution shows noticeable skewness
+
+## ✅ Conclusion
+This project highlights practical data analysis skills and helps understand compensation trends using data-driven insights.
+
+👩‍💻 **Author:** Anshu Kumari
+
 
 
